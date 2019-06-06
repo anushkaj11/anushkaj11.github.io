@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""     #"Your Name / Site Title"
+title                    : "Anushka Jha"     #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Anushka Jha" #"Your Name"
 description              : &description "Graduate Student" #"personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anushka Jha" #"Your Sidebar Name"
+  name             : "" #"Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
