@@ -12,4 +12,4 @@ We investigate how the presence of acrylic acid as a co-monomer impacts the adhe
 
 [Download paper here](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b00120)
 
-Recommended citation: Preetika Karnal, Anushka Jha, Hanqi Wen, Stefan Gryska, Carlos Barrios, and Joelle Frechette (2019). "Contribution of Surface Energy to pH-Dependent Underwater Adhesion of an Acrylic Pressure-Sensitive Adhesive" <i>Langmuir</i>. 35(15).
+
