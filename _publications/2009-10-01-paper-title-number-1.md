@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Contribution of Surface Energy to pH-Dependent Underwater Adhesion of an Acrylic Pressure-Sensitive Adhesive"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'We investigate how the presence of acrylic acid as a co-monomer impacts the adhesion of a model PSA in aqueous environments of varying pH. The adhesives under investigation are poly(2-ethylhexyl acrylate), or poly(2-EHA), and poly(2-EHA) co-polymerized with 5 wt % acrylic acid, or poly(2-EHA-co-AA). We characterize bonding and debonding (adhesion) of the adhesives using probe tack measurements with a spherical hydrophobic glass probe.'
+date: 2019-04-04
+venue: 'Langmuir'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Preetika Karnal, Anushka Jha, Hanqi Wen, Stefan Gryska, Carlos Barrios, and Joelle Frechette (2019). "Contribution of Surface Energy to pH-Dependent Underwater Adhesion of an Acrylic Pressure-Sensitive Adhesive" <i>Langmuir</i>. 35(15).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We investigate how the presence of acrylic acid as a co-monomer impacts the adhesion of a model PSA in aqueous environments of varying pH. The adhesives under investigation are poly(2-ethylhexyl acrylate), or poly(2-EHA), and poly(2-EHA) co-polymerized with 5 wt % acrylic acid, or poly(2-EHA-co-AA). We characterize bonding and debonding (adhesion) of the adhesives using probe tack measurements with a spherical hydrophobic glass probe.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b00120)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Preetika Karnal, Anushka Jha, Hanqi Wen, Stefan Gryska, Carlos Barrios, and Joelle Frechette (2019). "Contribution of Surface Energy to pH-Dependent Underwater Adhesion of an Acrylic Pressure-Sensitive Adhesive" <i>Langmuir</i>. 35(15).
