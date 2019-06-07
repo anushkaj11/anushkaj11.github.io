@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a doctoral candidate in Chemical and Biomolecular Engineering, currently in my second year of graduate school at the Johns Hopkins University. I am advised by Dr. Joelle Frechette(https://engineering.jhu.edu/chembe/faculty/joelle-frechette/).
+I am a doctoral candidate in Chemical and Biomolecular Engineering, currently in my second year of graduate school at the Johns Hopkins University. I am advised by [Dr. Joelle Frechette](https://engineering.jhu.edu/chembe/faculty/joelle-frechette/).
 
 
 <!---A data-driven personal website
